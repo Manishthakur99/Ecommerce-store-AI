@@ -6,3 +6,4 @@ pydantic-ai-slim[groq]
 logfire[system-metrics]
 pydantic_ai_slim[openai]
 pymongo
+pandas
